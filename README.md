@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project is a real-time chat application built using React for the front end and Firebase for the backend. The app allows users to join chat rooms, send and receive messages in real-time, and provides a seamless and engaging chat experience.
+This project is a real-time chat application built using React for the front end and Firebase for the back end. The app allows users to send and receive messages in real-time and provides a seamless and engaging chat experience.
 
 ## Features
 
